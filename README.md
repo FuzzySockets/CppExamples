@@ -2,6 +2,7 @@
 This repository will be used to house simple C++ example files.
 
 1. PrimitiveTypeSizes.cpp
+2. FileStreams.cpp
 
 ## Compiling
 Run `g++ [filename.cpp] -o [outputName]`
